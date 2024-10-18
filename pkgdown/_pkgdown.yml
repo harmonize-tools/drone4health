@@ -1,0 +1,18 @@
+url: https://github.com/harmonize-tools/drone4health
+home:
+  title: drone4health
+
+template:
+  bootstrap: 5
+  bslib:
+    pkgdown-navbar-bg: '#15112b'
+
+navbar:
+   bg: custom
+   structure:
+    right: [search, github, lightswitch]
+
+reference:
+ - title: 'Download of INEI cartographic layer'
+   contents:
+   - import_data

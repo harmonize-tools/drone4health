@@ -1,0 +1,32 @@
+Package: drone4health
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+   person(given = "Edgar",
+           family = "Manrique",
+           role = c("cre","aut"),
+           email = "edgar.manrique30@gmail.com",
+           comment = c(ORCID = "0000-0002-0196-0818")),
+    person(given = "Antony",
+           family = "Barja",
+           role = "aut",
+           email = "geografo.pe@gmail.com",
+           comment = c(ORCID = "0000-0002-1073-9306")),
+    person(given = "Yomali",
+           family = "Ferreyra",
+           role = c("ctb"),
+           email = "yomali.ferreyra@upch.pe",
+           comment = c(ORCID = "0000-0001-5921-2858"))
+           )
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Suggests: 
+    knitr,
+    rmarkdown
