@@ -1,11 +1,11 @@
-url: https://github.com/harmonize-tools/drone4health
+url: https://geografo.pe/geoidep/
 home:
-  title: drone4health
+  title: Generates ecological metrics from drone imagery for infectious disease modeling
 
 template:
   bootstrap: 5
   bslib:
-    pkgdown-navbar-bg: '#15112b'
+    pkgdown-navbar-bg: '#272640'
 
 navbar:
    bg: custom

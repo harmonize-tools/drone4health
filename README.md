@@ -3,7 +3,7 @@
 
 # drone4health
 
-<img src="man/figures/drone4health.svg" align="right" hspace="10" vspace="0" width="20%">
+<img src="man/figures/drone4health.svg" align="right" hspace="10" vspace="0" width="22%">
 
 <!-- badges: start -->
 
@@ -12,7 +12,9 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 
 <!-- badges: end -->
 
-The goal of drone4health is to …
+To provide R users with a new way to obtain ecological metrics related
+to infectious diseases by processing orthomosaics derived from RGB,
+multispectral, lidar, thermal and multispectral drones.
 
 ## Installation
 

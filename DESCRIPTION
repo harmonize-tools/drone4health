@@ -1,27 +1,17 @@
 Package: drone4health
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Generates ecological metrics from drone imagery for infectious disease modeling
 Version: 0.1.0
 Authors@R: c(
-   person(given = "Edgar",
-           family = "Manrique",
-           role = c("cre","aut"),
-           email = "edgar.manrique30@gmail.com",
+    person(given = "Edgar", family = "Manrique", email = "edgar.manrique30@gmail.com", role = c("aut","cre"), 
            comment = c(ORCID = "0000-0002-0196-0818")),
-    person(given = "Antony",
-           family = "Barja",
-           role = "aut",
-           email = "geografo.pe@gmail.com",
-           comment = c(ORCID = "0000-0002-1073-9306")),
-    person(given = "Yomali",
-           family = "Ferreyra",
-           role = c("ctb"),
-           email = "yomali.ferreyra@upch.pe",
+    person(given = "Antony", family = "Barja", email = "geografo.pe@gmail.com", role = c("aut"), 
            comment = c(ORCID = "0000-0001-5921-2858"))
            )
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Maintainer: The package maintainer <edgar.manrique30@gmail.com>
+Description: To provide R users with a new way to obtain ecological metrics related 
+             to infectious diseases by processing orthomosaics derived from RGB,
+             multispectral, lidar, thermal and multispectral drones.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -30,3 +20,4 @@ RoxygenNote: 7.3.2
 Suggests: 
     knitr,
     rmarkdown
+VignetteBuilder: knitr

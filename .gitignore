@@ -1,12 +1,2 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-docs/*
-docs
 inst/doc
-cran-comments.md
-CRAN-SUBMISSION
-/doc/
-/Meta/
-/.quarto/
+.Rproj.user
